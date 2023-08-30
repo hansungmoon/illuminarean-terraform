@@ -12,7 +12,8 @@ a. ubuntu 22.04
 b. t3.micro
 ```
 
-![image](https://github.com/hansungmoon/illuminarean-terraform/assets/98951034/bb5a91fc-3d84-4bea-9a31-d4438b973d42)
+![image](https://github.com/hansungmoon/illuminarean-terraform/assets/98951034/5fba3067-1128-4898-82d3-08c40e6007c4)
+
 
 
 오토스케일링 그룹을 설정하여 각 AZ별로 3개의 EC2를 생성하였습니다.
